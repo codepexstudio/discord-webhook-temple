@@ -1,0 +1,31 @@
+{
+  "version": 7,
+  "backups": [
+    {
+      "name": "wa",
+      "messages": [
+        {
+          "data": {
+            "content": "https://media.discordapp.net/attachments/1025235383795068948/1032691214354489365/MOSHED-2022-10-20-23-25-44.gif",
+            "embeds": null,
+            "attachments": []
+          },
+          "reference": ""
+        },
+        {
+          "data": {
+            "content": "เซิร์ฟเวอร์อยู่ในช่วง Early Access  อาจพบเจอข้อผิดพลาดหรืออาการเซิร์ฟเวอร์หน่วง/ฟาร์ม,วงจร Vanilla ต่างๆใช้ไม่ได้ ถ้าเกิดพบเจอสิ่งเหลานี้กรุณาแจ้งใน  <#1032688692323680336> เมื่อเราได้รับข้อมูลแล้วจะเร่งทำการแก้ไขทันที่\n\n\n\n**FAQ คําถามที่พบบ่อย** ❓\n\n**Early Access คืออะไร**\nคือช่วงที่อยู่ในการพัฒนาและแก้ไขอาจมีการเปลี่ยนแปลงมากมายในอนาคต\n\n**แล้วถ้าจบช่วง Early access แล้วจะของในตัวหรือโลกที่เล่นมาจะหายไหม**\nหายหายและใช้โลกเดิมเปิดต่อจนกว่าจะจบ Season\n\n**ถ้าเล่น Early access จะได้อะไรไหม**\nได้ช่วยผู้สร้างทดสอบและพัฒนาเซิร์ฟเวอร์และจะได้รับยศและไอเท็มหัว Early access ในเกม",
+            "embeds": null,
+            "attachments": []
+          },
+          "reference": ""
+        }
+      ],
+      "targets": [
+        {
+          "url": "https://discord.com/api/webhooks/1032692780079783947/Zo4NdAZUQpdBZoqChR48dTCy9t2HIjNMEopM9TZYxCQIAWl1p7_Dt8I4oe0VfvC24F71"
+        }
+      ]
+    }
+  ]
+}
