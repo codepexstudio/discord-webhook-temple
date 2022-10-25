@@ -1,0 +1,37 @@
+{
+  "version": 7,
+  "backups": [
+    {
+      "name": "link",
+      "messages": [
+        {
+          "data": {
+            "content": "https://media.discordapp.net/attachments/1032688030642884639/1034516245560692766/link.png",
+            "embeds": null,
+            "attachments": []
+          },
+          "reference": ""
+        },
+        {
+          "data": {
+            "content": null,
+            "embeds": [
+              {
+                "title": "ลิงค์ที่มีประโยชน์",
+                "description": "**เชิญดิสคอส** | https://laika.ml/inv\n**แผนที่** | https://laika.ml/map\n**เว็บไซต์** | https://laika.ml\n**Wiki** | https://github.com/codepexstudio/LRI-Wiki/wiki\n**Facebook** | https://facebook.com/lightreimagined\n**Github** | https://github.com/codepexstudio",
+                "color": 1621759
+              }
+            ],
+            "attachments": []
+          },
+          "reference": ""
+        }
+      ],
+      "targets": [
+        {
+          "url": "https://discord.com/api/webhooks/1034523189272907867/Gh1PFc8l3TzOg-ekuWfGCiB7iGl39jaf9qNZL5pAScUX6f8JajnDeeOnG7Y5gjyaAXc1"
+        }
+      ]
+    }
+  ]
+}
